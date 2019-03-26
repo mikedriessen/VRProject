@@ -9,29 +9,10 @@
       <e p="Assembly-CSharp-firstpass.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
-        <e p="EasyRoads3D" t="Include">
-          <e p="_readme .txt" t="Include" />
-          <e p="_Release Notes.txt" t="Include" />
-          <e p="prefab meshes" t="Include">
-            <e p="_custom prefabs.txt" t="Include" />
-          </e>
-          <e p="prefab sources" t="Include">
-            <e p="_custom prefabs.txt" t="Include" />
-          </e>
-          <e p="Resources" t="Include">
-            <e p="custom prefabs" t="Include">
-              <e p="_custom prefabs.txt" t="Include" />
-            </e>
-            <e p="dynamic prefabs" t="Include">
-              <e p="dynamic prefabs.txt" t="Include" />
-            </e>
-          </e>
-          <e p="shaders" t="Include">
-            <e p="EasyRoads3D - Unity 5 Standard.shader" t="Include" />
-            <e p="EasyRoads3D - Unity 5 StandardSpecular.shader" t="Include" />
-            <e p="EasyRoads3D - Unity Standard 2018.shader" t="Include" />
-            <e p="EasyRoads3D-Road-Edit-Mode.shader" t="Include" />
-            <e p="EasyRoads3D-Surface-Offset.shader" t="Include" />
+        <e p="_Scripts" t="Include">
+          <e p="BulletPool" t="Include">
+            <e p="BulletScript.cs" t="Include" />
+            <e p="Shooting.cs" t="Include" />
           </e>
         </e>
         <e p="MCP" t="Include">

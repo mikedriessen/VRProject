@@ -16,6 +16,9 @@ TagManager:
   - SnapCylinder
   - SnapSaucer
   - Head
+  - Ladder
+  - LadderLandingPad
+  - ShootLoc
   layers:
   - Default
   - TransparentFX
