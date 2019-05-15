@@ -1,347 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5d4e100c-ace5-4f35-9646-0cb4307952cc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.VRProject/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.VRProject/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.VRProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.VRProject/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/Editor.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/Editor/EasyRoads3Dv3Editor.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/Editor/EasyRoads3Dv3Editor.dll.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/Materials.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/Materials/roadsample_d.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/Materials/roadsample_d.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/Resources.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/Resources/ER Road Network.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/Resources/ER Road Network.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/Resources/ERProRoad.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/Resources/ERProRoad.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/Resources/ERProjectLog.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/Resources/ERProjectLog.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/Resources/Materials.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/Resources/Materials/crossings.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/Resources/Materials/crossings/crossing material.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/Resources/Materials/crossings/crossing material.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/Resources/Materials/crossings/road X sidewalks.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/Resources/Materials/crossings/road X sidewalks.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/Resources/Materials/roads.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/Resources/Materials/roads/dirt material.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/Resources/Materials/roads/dirt material.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/Resources/Materials/roads/road material.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/Resources/Materials/roads/road material.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/Resources/Materials/roundabouts.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/Resources/Materials/roundabouts/roundabout 2 lane.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/Resources/Materials/roundabouts/roundabout 2 lane.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/Resources/Materials/roundabouts/roundaboutconnect 1.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/Resources/Materials/roundabouts/roundaboutconnect 1.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/Resources/Materials/sidewalks.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/Resources/Materials/sidewalks/sidewalk 1.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/Resources/Materials/sidewalks/sidewalk 1.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/Resources/Materials/sidewalks/sidewalk.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/Resources/Materials/sidewalks/sidewalk.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/Resources/Materials/surfaceMaterial.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/Resources/Materials/surfaceMaterial.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/Resources/custom prefabs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/Resources/custom prefabs/_custom prefabs.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/Resources/custom prefabs/_custom prefabs.txt.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/Resources/dynamic prefabs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/Resources/dynamic prefabs/dynamic prefabs.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/Resources/dynamic prefabs/dynamic prefabs.txt.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/_Release Notes.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/_Release Notes.txt.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/_manualv3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/_manualv3.html.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/_readme .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/_readme .txt.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/html.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/html/ERConnection.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/html/ERConnection.html.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/html/ERConnectionData.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/html/ERConnectionData.html.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/html/EREditor.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/html/EREditor.html.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/html/ERRoad.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/html/ERRoad.html.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/html/ERRoadNetwork.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/html/ERRoadNetwork.html.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/html/ERRoadType.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/html/ERRoadType.html.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/html/creating_roads.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/html/creating_roads.html.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/html/general_settings.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/html/general_settings.html.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/html/general_workflow.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/html/general_workflow.html.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/html/getting_started.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/html/getting_started.html.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/html/hierarchy.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/html/hierarchy.html.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/html/intersections.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/html/intersections.html.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/html/known_issues.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/html/known_issues.html.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/html/materials.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/html/materials.html.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/html/package.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/html/package.html.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/html/quick_start.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/html/quick_start.html.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/html/release_notes.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/html/release_notes.html.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/html/resources_contact.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/html/resources_contact.html.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/html/scene.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/html/scene.html.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/html/scriptingAPI.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/html/scriptingAPI.html.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/html/shortcuts.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/html/shortcuts.html.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/html/side_objects.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/html/side_objects.html.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/html/terrain_control.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/html/terrain_control.html.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/html/toolbar.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/html/toolbar.html.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/html/troubleshooting.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/html/troubleshooting.html.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/CrossingsInspector.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/CrossingsInspector.jpg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/IConnector.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/IConnector.jpg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/Thumbs.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/Thumbs.db.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/alder.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/alder.jpg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/camMode.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/camMode.jpg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/connectionProperties.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/connectionProperties.jpg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/connectionSettings.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/connectionSettings.jpg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/copyFromExisiting.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/copyFromExisiting.jpg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/createnetwork.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/createnetwork.jpg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/crossing.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/crossing.jpg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/crossingCornerSettings.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/crossingCornerSettings.jpg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/crossingHandles.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/crossingHandles.jpg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/crossingPrefabs.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/crossingPrefabs.jpg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/custom_editor_1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/custom_editor_1.jpg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/defaultMaterials.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/defaultMaterials.jpg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/folders.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/folders.jpg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/generalCrossingSettings.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/generalCrossingSettings.jpg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/generalSettings.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/generalSettings.jpg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/generalSettings_tab.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/generalSettings_tab.jpg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/general_settings.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/general_settings.jpg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/greenRedHandles.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/greenRedHandles.jpg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/hierarchy.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/hierarchy.jpg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/home.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/home.jpg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/import_data.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/import_data.jpg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/info.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/info.jpg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/info_tab.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/info_tab.jpg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/licenseInfo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/licenseInfo.jpg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/loaderGIFNEW.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/loaderGIFNEW.gif.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/lodgroups.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/lodgroups.jpg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/mainSOsettings.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/mainSOsettings.jpg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/mainToolbar.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/mainToolbar.jpg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/markerAdditional.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/markerAdditional.jpg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/menu.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/menu.jpg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/menugui.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/menugui.jpg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/meshBridge.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/meshBridge.jpg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/meshEditor.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/meshEditor.jpg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/newObject.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/newObject.jpg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/newRoad.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/newRoad.jpg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/nextBtm.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/nextBtm.jpg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/nextTop.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/nextTop.jpg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/prefabs_tab.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/prefabs_tab.jpg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/previousBtm.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/previousBtm.jpg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/previousTop.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/previousTop.jpg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/processTerrain.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/processTerrain.jpg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/render_tab.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/render_tab.jpg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/roadTypes.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/roadTypes.jpg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/roadproperties.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/roadproperties.jpg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/roads_tab.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/roads_tab.jpg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/scene_settings.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/scene_settings.jpg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/scene_tab.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/scene_tab.jpg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/scenecontrol.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/scenecontrol.jpg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/shapeEditor.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/shapeEditor.jpg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/sideobjects_start.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/sideobjects_start.jpg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/soMeshInspector.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/soMeshInspector.jpg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/soProceduralMeshInspector.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/soProceduralMeshInspector.jpg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/soShapeInspector.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/soShapeInspector.jpg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/so_tab.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/so_tab.jpg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/spacer.GIF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/spacer.GIF.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/terrain_build.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/terrain_build.jpg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/terrain_management.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/terrain_management.jpg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/terrain_pre_build_options.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/terrain_pre_build_options.jpg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/terrain_tab.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/terrain_tab.jpg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/toolbar.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/toolbar.jpg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/topLeft.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/topLeft.jpg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/topMenu.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/topMenu.jpg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/topMiddle.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/topMiddle.jpg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/topRight.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/topRight.jpg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/unity_mode.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/unity_mode.jpg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/uploafGalleryBG.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/uploafGalleryBG.jpg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/uvEditor.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/uvEditor.jpg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/wirefence-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/images/wirefence-1.jpg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/lib.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/lib/EasyRoads3Dv3.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/lib/EasyRoads3Dv3.dll.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/prefab meshes.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/prefab meshes/_custom prefabs.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/prefab meshes/_custom prefabs.txt.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/prefab sources.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/prefab sources/_custom prefabs.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/prefab sources/_custom prefabs.txt.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/shaders.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/shaders/EasyRoads3D - Unity 5 Standard.shader" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/shaders/EasyRoads3D - Unity 5 Standard.shader.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/shaders/EasyRoads3D - Unity 5 StandardSpecular.shader" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/shaders/EasyRoads3D - Unity 5 StandardSpecular.shader.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/shaders/EasyRoads3D - Unity Standard 2018.shader" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/shaders/EasyRoads3D - Unity Standard 2018.shader.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/shaders/EasyRoads3D-Road-Edit-Mode.shader" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/shaders/EasyRoads3D-Road-Edit-Mode.shader.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/shaders/EasyRoads3D-Surface-Offset.shader" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/shaders/EasyRoads3D-Surface-Offset.shader.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/style.css.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/textures.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/textures/editor.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/textures/editor/locked.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/textures/editor/locked.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/textures/editor/m_build.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/textures/editor/m_build.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/textures/editor/m_header.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/textures/editor/m_header.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/textures/editor/m_info.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/textures/editor/m_info.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/textures/editor/m_prefabs.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/textures/editor/m_prefabs.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/textures/editor/m_road.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/textures/editor/m_road.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/textures/editor/m_roads.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/textures/editor/m_roads.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/textures/editor/m_scene.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/textures/editor/m_scene.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/textures/editor/m_settings.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/textures/editor/m_settings.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/textures/editor/m_so.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/textures/editor/m_so.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/textures/editor/unlocked.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/textures/editor/unlocked.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/textures/roads.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/textures/roads/dirtRoadTGA.tga" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/textures/roads/dirtRoadTGA.tga.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/textures/roads/road2Lane_d.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/textures/roads/road2Lane_d.jpg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/textures/roads/road_b.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EasyRoads3D/textures/roads/road_b.jpg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Robot1F_Workshop_3D.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Robot1F_Workshop_3D/Animation.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Robot1F_Workshop_3D/Animation/Attack_Arm_1.anim" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Robot1F_Workshop_3D/Animation/Attack_Arm_1.anim.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Robot1F_Workshop_3D/Animation/Idle_1.anim" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Robot1F_Workshop_3D/Animation/Idle_1.anim.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Robot1F_Workshop_3D/Animation/Idle_2.anim" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Robot1F_Workshop_3D/Animation/Idle_2.anim.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Robot1F_Workshop_3D/Animation/Idle_3.anim" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Robot1F_Workshop_3D/Animation/Idle_3.anim.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Robot1F_Workshop_3D/Animation/Idle_Crazy_Robot.anim" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Robot1F_Workshop_3D/Animation/Idle_Crazy_Robot.anim.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Robot1F_Workshop_3D/Animation/Robot1 Animator Controller.controller" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Robot1F_Workshop_3D/Animation/Robot1 Animator Controller.controller.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Robot1F_Workshop_3D/Animation/Run_IP.anim" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Robot1F_Workshop_3D/Animation/Run_IP.anim.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Robot1F_Workshop_3D/Animation/Walk_IP.anim" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Robot1F_Workshop_3D/Animation/Walk_IP.anim.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Robot1F_Workshop_3D/Materials.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Robot1F_Workshop_3D/Materials/Robot1_DefaultMaterial_AlbedoTransparency.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Robot1F_Workshop_3D/Materials/Robot1_DefaultMaterial_AlbedoTransparency.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Robot1F_Workshop_3D/Models.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Robot1F_Workshop_3D/Models/Robot1.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Robot1F_Workshop_3D/Models/Robot1.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Robot1F_Workshop_3D/Prefabs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Robot1F_Workshop_3D/Prefabs/Robot1.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Robot1F_Workshop_3D/Prefabs/Robot1.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Robot1F_Workshop_3D/Scene.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Robot1F_Workshop_3D/Scene/Robot1_Demo.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Robot1F_Workshop_3D/Scene/Robot1_Demo.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Robot1F_Workshop_3D/Textures.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Robot1F_Workshop_3D/Textures/Robot1_DefaultMaterial_AlbedoTransparency.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Robot1F_Workshop_3D/Textures/Robot1_DefaultMaterial_AlbedoTransparency.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Robot1F_Workshop_3D/Textures/Robot1_DefaultMaterial_MetallicSmoothness.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Robot1F_Workshop_3D/Textures/Robot1_DefaultMaterial_MetallicSmoothness.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Robot1F_Workshop_3D/Textures/Robot1_DefaultMaterial_Normal.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Robot1F_Workshop_3D/Textures/Robot1_DefaultMaterial_Normal.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Robot1F_Workshop_3D/Textures/panorama_1.hdr" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Robot1F_Workshop_3D/Textures/panorama_1.hdr.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Scenes/mcp_day.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scenes/mcp_day.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
-    </list>
+    <list default="true" id="5d4e100c-ace5-4f35-9646-0cb4307952cc" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -363,8 +23,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/_Scripts/BulletPool/Shooting.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="281">
-              <caret line="69" column="36" selection-start-line="69" selection-start-column="36" selection-end-line="69" selection-end-column="36" />
+            <state relative-caret-position="-255">
+              <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
               <folding>
                 <marker date="1553611899399" expanded="false" signature="6:78" ph="..." />
                 <marker date="1553611899399" expanded="true" signature="139:2401" ph="{...}" />
@@ -424,7 +84,7 @@
       <facet id="riderModule/invalid/Default Android Facet" />
     </ignored-facets>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="505" />
     <option name="y" value="-24" />
     <option name="width" value="1628" />
@@ -492,12 +152,12 @@
       <updated>1553004946840</updated>
       <workItem from="1553004951232" duration="5000" />
       <workItem from="1553008101051" duration="614000" />
-      <workItem from="1553604098554" duration="5446000" />
+      <workItem from="1553604098554" duration="5908000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6065000" />
+    <option name="totallyTimeSpent" value="6527000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -509,8 +169,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1066" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.015991472" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -595,8 +254,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/_Scripts/BulletPool/Shooting.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
-          <caret line="69" column="36" selection-start-line="69" selection-start-column="36" selection-end-line="69" selection-end-column="36" />
+        <state relative-caret-position="-255">
+          <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
           <folding>
             <marker date="1553611899399" expanded="false" signature="6:78" ph="..." />
             <marker date="1553611899399" expanded="true" signature="139:2401" ph="{...}" />
